@@ -7,7 +7,7 @@ st.set_page_config(
     page_title="المنصة المركزية الذكية لمؤشر الوقف العماني (OWI)",
     page_icon="🏛️",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed"
 )
 
 # Professional CSS Styling for Official Omani Institutional Standard
